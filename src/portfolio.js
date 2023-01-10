@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://agilsaputra.netlify.app/',
+  title: 'Agil Saputra',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'M Agil Saputra',
+  role: '',
   description:
     'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    github: 'https://github.com/agilsaputra',
   },
 }
 
@@ -49,18 +49,12 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
-  'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Docker',
+  'Airflow',
+  'Sql',
+  'Familiar with linux cli and shell',
+  'Metabase',
+  'Netlify'
 ]
 
 const contact = {
