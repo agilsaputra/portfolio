@@ -2,13 +2,10 @@
 
 # Cleanfolio
 
-A clean and simple portfolio template built using React, if want a template built with HTML, CSS and JS then check out [Cleanfolio Minimal](https://github.com/rajshekhar26/cleanfolio-minimal).
+A clean and simple portfolio template built using React, if want a template built with HTML, CSS and JS then check out .
 
 ## Preview
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rajshekhar26.github.io/cleanfolio)
-
-[See Live](https://rajshekhar26.github.io/cleanfolio)
 
 ## Instructions
 
@@ -52,7 +49,7 @@ yarn start
 
 - Go to `package.json` file and replace -
 
-`"homepage": "https://rajshekhar26.github.io/cleanfolio"`
+`"homepage": "https://github.com/agilsaputra/portfolio"`
 
 with `"homepage": "https://yourusername.github.io"`.
 
