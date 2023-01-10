@@ -6,7 +6,7 @@ const Footer = () => (
       href='https://agilsaputra.netlify.app/'
       className='link footer__link'
     >
-      Currently learn Database Enggineer :innocent:
+      Currently learn Database Enggineer 
     </a>
   </footer>
 )
