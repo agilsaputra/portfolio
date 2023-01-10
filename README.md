@@ -5,7 +5,7 @@
 A clean and simple portfolio template built using React, if want a template built with HTML, CSS and JS then check out .
 
 ## Preview
-[Cek here is live now](https://agilsaputra.netlify.app/)
+[live now](https://agilsaputra.netlify.app/)
 
 ## Instructions
 
