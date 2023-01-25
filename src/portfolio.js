@@ -24,7 +24,7 @@ const projects = [
     name: 'Extract data from twitter API using python',
     description:
       'Simple python script to pull data from twitter API then store on csv file, this script will pull tweet contain words "indonesia" and location in yogyakarta',
-    stack: ['Python', 'TwitterAPI', 'Tweepy'],
+    stack: ['Python', 'TwitterAPI', 'Tweepy','Parameters base Standard search API'],
     sourceCode: 'https://github.com/agilsaputra/python-script-to-csv',
     livePreview: 'https://github.com/agilsaputra/python-script-to-csv/blob/master/tweets.csv',
   },
