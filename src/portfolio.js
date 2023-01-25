@@ -21,12 +21,12 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Extract data from twitter API using python',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Simple python script to pull data from twitter API then store on csv file,',
+    stack: ['Python', 'TwitterAPI', 'Tweepy'],
+    sourceCode: 'https://github.com/agilsaputra/python-script-to-csv',
+    livePreview: 'https://github.com/agilsaputra/python-script-to-csv',
   },
   {
     name: 'Project 2',
