@@ -12,7 +12,7 @@ A clean and simple portfolio template built using React, if want a template buil
 ### Setup
 
 ```shell
-git clone https://github.com/rajshekhar26/cleanfolio
+git clone https://github.com/agilsaputra/portfolio
 cd cleanfolio
 ```
 
