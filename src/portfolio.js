@@ -29,10 +29,10 @@ const projects = [
     livePreview: 'https://github.com/agilsaputra/python-script-to-csv/blob/master/tweets.csv',
   },
   {
-    name: 'Project 2',
+    name: 'Schedule python script use crontab',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'Scheduling python script who will print "date.now" and words "hello from crontab", in this case cron will execute "hello_to_cron.py" every minutes ',
+    stack: ['Cron', 'Python', 'Crontab','Linux CLI',],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
