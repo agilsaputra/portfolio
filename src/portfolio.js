@@ -33,8 +33,8 @@ const projects = [
     description:
       'Scheduling python script who will print "date.now" and words "hello from crontab", in this case cron will execute "hello_to_cron.py" every minutes ',
     stack: ['Cron', 'Python', 'Crontab','Linux CLI',],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/agilsaputra/cron_python_script',
+    livePreview: 'https://github.com/agilsaputra/cron_python_script/blob/master/hello.log',
   },
   {
     name: 'Project 3',
@@ -53,8 +53,10 @@ const skills = [
   'Airflow',
   'Sql',
   'Familiar with linux cli and shell',
-  'Metabase',
-  'Netlify'
+  'Netlify',
+  'Cron',
+  'Git/Github',
+  
 ]
 
 const contact = {
