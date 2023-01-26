@@ -55,8 +55,8 @@ const skills = [
   'Familiar with linux cli and shell',
   'Netlify',
   'Cron',
-  'Git/Github',
-  
+  'Git & Github command',
+  'Python',
 ]
 
 const contact = {
