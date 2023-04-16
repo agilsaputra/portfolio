@@ -9,7 +9,7 @@ const about = {
   name: 'M Agil Saputra',
   role: '',
   description:
-    'Currently working as Ebay Admin In addition to my eBay Admin duties, I also manage web maintenance tasks for pa6autoparts.com. This includes regular website updates, such as product additions, pricing updates, and content modifications, to ensure the site remains current and user-friendly. I also conduct routine checks for website functionality, including monitoring for broken links, resolving technical issues, and optimizing site speed and performance.',
+    'Currently working as Ebay Admin In addition to my eBay Admin duties, I also manage web maintenance tasks for https://pa6autoparts.com. This includes regular website updates, such as product additions, pricing updates, and content modifications, to ensure the site remains current and user-friendly. I also conduct routine checks for website functionality, including monitoring for broken links, resolving technical issues, and optimizing site speed and performance.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
