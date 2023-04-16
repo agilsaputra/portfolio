@@ -12,6 +12,7 @@
 
 .project__description {
   margin-top: 1em;
+  text-align:left;
 }
 
 .project__stack {
