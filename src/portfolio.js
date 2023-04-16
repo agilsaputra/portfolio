@@ -23,13 +23,12 @@ const projects = [
   {
     name: 'Admin for Ebay Seller',
     description:
-      `Februari 2021 - Present (2 tahun)
+      `Februari 2021 - Present (2 tahun)\n
 
-      - order management : i'm manage order from receiving purchase orders to ensuring timely and accurate order processing
-      - handle buyer around the world  : 
-      ensured compliance and resolved any order-related issues e.g : international shipping regulation, tax regulation each country 
-      - manage stock inventory : managed stock inventory to ensure optimal stock availability and avoid stockouts .
-      - Create Daily Inventory Report for Stock In and Stock Out
+      - order management : i'm manage order from receiving purchase orders to ensuring timely and accurate order processing\n
+      - handle buyer around the world  :ensured compliance and resolved any order-related issues e.g : international shipping regulation, tax regulation each country \n
+      - manage stock inventory : managed stock inventory to ensure optimal stock availability and avoid stockouts .\n
+      - Create Daily Inventory Report for Stock In and Stock Out\n
       - Manage customer returns according to term and polices`,
     stack: ['Python', 'TwitterAPI', 'Tweepy','Parameters base Standard search API'],
     sourceCode: 'https://github.com/agilsaputra/python-script-to-csv',
