@@ -1,3 +1,5 @@
+import './app.css';
+
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://agilsaputra.netlify.app/',
