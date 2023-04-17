@@ -18,25 +18,7 @@ const About = () => {
       <p className='about__desc' dangerouslySetInnerHTML={{ __html: about.description }}></p>
 
       <div className='about__contact center'>
-        {resume && (
-          <a href={resume}>
-            <span type='button' className='btn btn--outline'>
-              Resume
-            </span>
-          </a>
-        )}
-
-        {social && (
-          <>
-            {social.github && (
-              <a
-                href={social.github}
-                aria-label='github'
-                className='link link--icon'
-              >
-                <GitHubIcon />
-              </a>
-            )}
+        
 
             {social.linkedin && (
               <a
