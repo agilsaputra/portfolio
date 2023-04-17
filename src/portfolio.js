@@ -10,7 +10,7 @@ const about = {
   name: 'M Agil Saputra',
   role: '',
   description:
-    'Currently working as Ebay Admin In addition to my eBay Admin duties, I also manage web maintenance tasks for <a href="https://pa6autoparts.com" className="link" >https://pa6autoparts.com</a> . This includes regular website updates, such as product additions, pricing updates, and content modifications, to ensure the site remains current and user-friendly. I also conduct routine checks for website functionality, including monitoring for broken links, resolving technical issues, and optimizing site speed and performance.',
+    'Currently working as Ebay Admin In addition to my eBay Admin duties, I also manage web maintenance tasks for <a href="https://pa6autoparts.com" className="link">pa6autoparts.com</a> . This includes regular website updates, such as product additions, pricing updates, and content modifications, to ensure the site remains current and user-friendly. I also conduct routine checks for website functionality, including monitoring for broken links, resolving technical issues, and optimizing site speed and performance.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
@@ -30,9 +30,8 @@ const projects = [
       - manage stock inventory : managed stock inventory to ensure optimal stock availability and avoid stockouts.\n
       - Create Daily Inventory Report for Stock In and Stock Out.\n
       - Manage customer returns according to term and polices`,
-    stack: ['Python', 'TwitterAPI', 'Tweepy','Parameters base Standard search API'],
-    sourceCode: 'https://github.com/agilsaputra/python-script-to-csv',
-    livePreview: 'https://github.com/agilsaputra/python-script-to-csv/blob/master/tweets.csv',
+    stack: ['Order Management', 'Buyer/Customer Management', 'Ms Excel','Office Management',''],
+    livePreview: 'https://pa6autoparts.com',
   },
   {
     name: 'Graphic design [Penerbit Briliant Book]',
@@ -41,9 +40,7 @@ const projects = [
         -Book Cover Design\n
         -Book Layout Design\n
         -Graphic Asset Creation`,
-    stack: ['Cron', 'Python', 'Crontab','Linux CLI',],
-    sourceCode: 'https://github.com/agilsaputra/cron_python_script',
-    livePreview: 'https://github.com/agilsaputra/cron_python_script/blob/master/hello.log',
+    stack: ['Layout Book Design', 'Graphic Design', 'Adobe Illustrator','Adobe Indesign',],
   },
  
 ]
@@ -51,14 +48,11 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'Docker',
-  'Airflow',
-  'Sql',
-  'Familiar with linux cli and shell',
-  'Netlify',
-  'Cron',
-  'Git & Github command',
-  'Python',
+  'Office Management',
+  'Experience with customer in many country',
+  'Experince with Microsoft Office product',
+  'Experience Adobe Product',
+  
 ]
 
 const contact = {
