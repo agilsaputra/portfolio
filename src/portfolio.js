@@ -22,7 +22,7 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Admin for Ebay Seller',
+    name: 'Admin for Ebay Seller[Pa6Autoparts]',
     description:
       `Februari 2021 - Present (2 tahun).\n
       - order management : i'm manage order from receiving purchase orders to ensuring timely and accurate order processing.\n
@@ -35,9 +35,12 @@ const projects = [
     livePreview: 'https://github.com/agilsaputra/python-script-to-csv/blob/master/tweets.csv',
   },
   {
-    name: 'Schedule python script use crontab',
+    name: 'Graphic design [Penerbit Briliant Book]',
     description:
-      'Scheduling python script who will print "date.now" and words "hello from crontab", in this case cron will execute "hello_to_cron.py" every minutes then create & printed in hello.log [logfile]',
+      `Februari 2019 - Januari 2021 (2 tahun)\n
+        -Book Cover Design\n
+        -Book Layout Design\n
+        -Graphic Asset Creation`,
     stack: ['Cron', 'Python', 'Crontab','Linux CLI',],
     sourceCode: 'https://github.com/agilsaputra/cron_python_script',
     livePreview: 'https://github.com/agilsaputra/cron_python_script/blob/master/hello.log',
