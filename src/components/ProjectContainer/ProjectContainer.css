@@ -13,6 +13,8 @@
 .project__description {
   margin-top: 1em;
   text-align:left;
+  word-wrap: break-word;
+  white-space: pre-wrap;
 }
 
 .project__stack {
