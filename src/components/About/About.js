@@ -29,7 +29,7 @@ const About = () => {
                 <LinkedInIcon />
               </a>
             )}
-          </>
+         
         )}
       </div>
     </div>
