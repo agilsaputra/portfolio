@@ -28,7 +28,7 @@ const About = () => {
               >
                 <LinkedInIcon />
               </a>
-            )}
+            
          
         )}
       </div>
