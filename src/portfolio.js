@@ -26,7 +26,7 @@ const projects = [
     description:
       `Februari 2021 - Present (2 tahun).\n
       - order management : i'm manage order from receiving purchase orders to ensuring timely and accurate order processing.\n
-      - handle buyer around the world  :ensured compliance and resolved any order-related issues e.g : international shipping regulation, tax regulation each country.\n
+      - handle buyer around the world : ensured compliance and resolved any order-related issues e.g : international shipping regulation, tax regulation include negosiate with buyer there is any charge from custom clearence or not (each contry have different regulation).\n
       - manage stock inventory : managed stock inventory to ensure optimal stock availability and avoid stockouts.\n
       - Create Daily Inventory Report for Stock In and Stock Out.\n
       - Manage customer returns according to term and polices`,
