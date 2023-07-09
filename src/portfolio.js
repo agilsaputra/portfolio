@@ -1,4 +1,3 @@
-
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://agilsaputra.netlify.app/',
@@ -10,11 +9,11 @@ const about = {
   name: 'M Agil Saputra',
   role: '',
   description:
-    'Currently working as Ebay Admin In addition to my eBay Admin duties, I also manage web maintenance tasks for <a href="https://pa6autoparts.com" className="link">pa6autoparts.com</a> . This includes regular website updates, such as product additions, pricing updates, and content modifications, to ensure the site remains current and user-friendly. I also conduct routine checks for website functionality, including monitoring for broken links, resolving technical issues, and optimizing site speed and performance.',
+    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
   resume: 'https://example.com',
   social: {
-    linkedin: '',
-    github: 'https://github.com/agisaputra',
+    linkedin: 'https://linkedin.com',
+    github: 'https://github.com/agilsaputra',
   },
 }
 
@@ -22,37 +21,42 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Admin for Ebay Seller[Pa6Autoparts]',
+    name: 'Extract data from twitter API using python',
     description:
-      `Februari 2021 - Present (2 tahun).\n
-      - order management : i'm manage order from receiving purchase orders to ensuring timely and accurate order processing.\n
-      - handle buyer around the world : ensured compliance and resolved any order-related issues e.g : international shipping regulation, tax regulation include negosiate with buyer there is any charge from custom clearence or not (each contry have different regulation).\n
-      - manage stock inventory : managed stock inventory to ensure optimal stock availability and avoid stockouts.\n
-      - Create Daily Inventory Report for Stock In and Stock Out.\n
-      - Manage customer returns according to term and polices`,
-    stack: ['Order Management', 'Buyer/Customer Management', 'Ms Excel','Office Management',''],
-    livePreview: 'https://pa6autoparts.com',
+      'Simple python script to pull data from twitter API then store on csv file, this script will pull tweet contain words "indonesia" and location in yogyakarta',
+    stack: ['Python', 'TwitterAPI', 'Tweepy','Parameters base Standard search API'],
+    sourceCode: 'https://github.com/agilsaputra/python-script-to-csv',
+    livePreview: 'https://github.com/agilsaputra/python-script-to-csv/blob/master/tweets.csv',
   },
   {
-    name: 'Graphic design [Penerbit Briliant Book]',
+    name: 'Schedule python script use crontab',
     description:
-      `Februari 2019 - Januari 2021 (2 tahun)\n
-        -Book Cover Design\n
-        -Book Layout Design\n
-        -Graphic Asset Creation`,
-    stack: ['Layout Book Design', 'Graphic Design', 'Adobe Illustrator','Adobe Indesign',],
+      'Scheduling python script who will print "date.now" and words "hello from crontab", in this case cron will execute "hello_to_cron.py" every minutes then create & printed in hello.log [logfile]',
+    stack: ['Cron', 'Python', 'Crontab','Linux CLI',],
+    sourceCode: 'https://github.com/agilsaputra/cron_python_script',
+    livePreview: 'https://github.com/agilsaputra/cron_python_script/blob/master/hello.log',
   },
- 
+  {
+    name: 'Project 3',
+    description:
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    stack: ['SASS', 'TypeScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
 ]
 
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'Office Management',
-  'Experience with customer in many country',
-  'Experince with Microsoft Office product',
-  'Experience Adobe Product',
-  
+  'Docker',
+  'Airflow',
+  'Sql',
+  'Familiar with linux cli and shell',
+  'Netlify',
+  'Cron',
+  'Git & Github command',
+  'Python',
 ]
 
 const contact = {
