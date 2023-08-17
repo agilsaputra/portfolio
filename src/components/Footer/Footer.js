@@ -3,7 +3,7 @@ import './Footer.css'
 const Footer = () => (
   <footer className='footer'>
     <a
-      href='https://pa6autoparts.com/'
+      href=''
       className='link footer__link'
     >
       Visit website 
