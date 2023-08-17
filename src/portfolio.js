@@ -9,7 +9,12 @@ const about = {
   name: 'M Agil Saputra',
   role: '',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'Saya adalah lulusan universitas amikom yogyakarta. Saya terbiasa bekerja \n
+dengan data, baik itu data warehouse maupun data invetory lokal, saat ini \n
+saya bekerja sebagai admin yang berjualan di ecommerce (ebay). Saya
+merupakan seseorang yang bekerja secara sistematis, dan memiliki
+kemampuan mengelola data secara efisien dan mengambil keputusan yang
+tepat. Dan saya merupakan orang yang adaptif dalam bekerja',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
